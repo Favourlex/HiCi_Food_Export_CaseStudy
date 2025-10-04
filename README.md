@@ -2,6 +2,8 @@
 Analysis of EU Food Safety data to identify high-risk food products and export risks for HiCi Ltd.
 # HiCi Ltd EU Food Export Analysis
 
+![Top Product Categories](top_product_categories.png)
+
 ## Project Overview
 HiCi Ltd is a local food export company looking to expand into the European Union (EU). 
 This project analyzes EU Food Safety Standard Agency data to identify high-risk food products, 
