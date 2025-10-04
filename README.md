@@ -41,7 +41,8 @@ This analysis answers the following:
 3. Uganda – 14 notifications  
 
 ### High-Risk Food Products and Associated Risks
-![Stacked Bar Chart](stacked_bar_chart.png)  
+![High-Risk Food Products](high_risk_foods.png)
+  
 *This chart shows the distribution of risk types across different food product categories, highlighting which products are at the highest risk.*
 
 ## Conclusion & Recommendations
